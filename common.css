@@ -1,0 +1,53 @@
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-dark {
+  color: var(--dark);
+}
+
+.bg-beige {
+  background-color: var(--beige);
+}
+
+.bg-gray {
+  background-color: var(--gray);
+}
+
+.bg-yellow {
+  background-color: var(--yellow);
+}
+
+.bg-dark-gray {
+  background-color: var(--dark-gray);
+}
+
+.border-radius-0 {
+  border-radius: 0 !important;
+}
+
+.h-50\% {
+  height: 50%;
+}
+
+.font-600 {
+  font-weight: 600;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.underlined {
+  text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+body {
+  font-family: 'Hiragino Sans';
+}
+
+:root {
+  --yellow: #fbef56;
+  --navy-blue: #1a1a3d;
+  --dark: #413f3f;
+  --beige: #fffae2;
+  --gray: #e3e7f9;
+  --white: #fff;
+  --light: rgba(248, 249, 250, 1);
+  --dark-gray: #3d464c;
+}
